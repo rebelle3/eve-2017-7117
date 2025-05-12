@@ -98,3 +98,7 @@ Does not work (yet) on iPhone 5, iOS 10.3.4. Let's find out why ...
 - Craft a fake object
 - Read / write arbitrary memory
 - Jailbreak iOS 10?
+
+## Important
+
+This repository is provided as an educational resource to track my learning in exploit development. This CVE has been patched for more than 7 years. Do NOT use this for nefarious purposes, obviously.
