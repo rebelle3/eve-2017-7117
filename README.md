@@ -85,11 +85,13 @@ print(describe(target))
 
 ## Replicate the Setup
 
-Tested on:
+Currently tested on:
 - Ubuntu 20.04.5 LTS ARM64
 - Vulnerable JavaScriptCore (JSC) from libwebkitgtk version 2.16.0
   - Build archive: [launchpad.net](https://launchpad.net/ubuntu/+source/webkit2gtk/2.16.0-1)
 - LLDB for memory inspection (optional)
+
+Does not work (yet) on iPhone 5, iOS 10.3.4. Let's find out why ...
 
 ## Next Steps?
 
